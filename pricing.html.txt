@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pricing</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="animations.css">
+</head>
+<body>
+
+<nav>
+  <h2>Apex Visual</h2>
+  <a href="index.html">Home</a>
+</nav>
+
+<section class="cards fade-in">
+
+  <div class="card">
+    <h3>Starter</h3>
+    <h2>R250</h2>
+    <p>1 Poster Design</p>
+    <p>24–48 Hours</p>
+  </div>
+
+  <div class="card delay">
+    <h3>Business</h3>
+    <h2>R750</h2>
+    <p>3 Posters</p>
+    <p>Brand Colors</p>
+  </div>
+
+  <div class="card delay">
+    <h3>Premium</h3>
+    <h2>R1500</h2>
+    <p>Full Brand Pack</p>
+    <p>Logos + Social Media</p>
+  </div>
+
+</section>
+
+</body>
+</html>

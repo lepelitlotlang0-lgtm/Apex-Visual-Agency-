@@ -1,0 +1,84 @@
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Apex Visual Agency</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Apex Visual Agency – Graphic design, branding, posters and social media visuals in South Africa">
+  <meta name="keywords" content="graphic design, branding, posters, social media, South Africa">
+  <meta name="author" content="Apex Visual Agency">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="animations.css">
+</head>
+
+<body>
+
+<!-- NAVIGATION -->
+<nav>
+  <h2>Apex Visual</h2>
+  <div>
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="pricing.html">Pricing</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <button onclick="toggleTheme()">🌗</button>
+  </div>
+</nav>
+
+<!-- HERO SECTION -->
+<section class="fade-in">
+  <h1>We Design Powerful Visuals</h1>
+  <p>Branding • Posters • Social Media • Identity</p>
+  <br>
+  <a href="pricing.html">
+    <button>View Pricing</button>
+  </a>
+</section>
+
+<!-- SERVICES -->
+<section class="cards fade-in">
+  <div class="card">Logo Design</div>
+  <div class="card">Posters & Flyers</div>
+  <div class="card">Social Media Graphics</div>
+  <div class="card">Brand Identity</div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="cards fade-in">
+  <div class="card">
+    ⭐⭐⭐⭐⭐
+    <p>“Very professional designs. Clean and modern.”</p>
+  </div>
+
+  <div class="card">
+    ⭐⭐⭐⭐⭐
+    <p>“Fast delivery and excellent communication.”</p>
+  </div>
+</section>
+
+<!-- WHATSAPP FLOATING BUTTON -->
+<a href="https://wa.me/27615230213"
+   style="
+   position:fixed;
+   bottom:20px;
+   right:20px;
+   background:#25D366;
+   color:white;
+   padding:14px 18px;
+   border-radius:50%;
+   font-size:22px;
+   text-decoration:none;
+   z-index:1000;">
+  💬
+</a>
+
+<!-- SCRIPT -->
+<script src="script.js"></script>
+
+</body>
+</html>

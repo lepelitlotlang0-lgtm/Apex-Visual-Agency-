@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h2>Apex Visual</h2>
+  <a href="index.html">Home</a>
+</nav>
+
+<section>
+  <h1>About Apex Visual Agency</h1>
+  <p>
+    We help brands grow through modern, professional
+    visual communication. Based in South Africa.
+  </p>
+</section>
+
+</body>
+</html>

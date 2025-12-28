@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h2>Apex Visual</h2>
+  <a href="index.html">Home</a>
+</nav>
+
+<section class="cards">
+  <div class="card">
+    <img src="https://images.unsplash.com/photo-1529336953121-ad1f1e9c1d17" width="100%">
+    <p>Poster Design</p>
+  </div>
+
+  <div class="card">
+    <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519" width="100%">
+    <p>Brand Identity</p>
+  </div>
+
+  <div class="card">
+    <img src="https://images.unsplash.com/photo-1586281380349-632531db7ed4" width="100%">
+    <p>Social Media Design</p>
+  </div>
+</section>
+
+</body>
+</html>
