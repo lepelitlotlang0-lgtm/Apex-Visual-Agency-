@@ -1,3 +1,1 @@
-function toggleTheme() {
-  document.body.classList.toggle("light");
-}
+console.log("Apex Visual Agency – Owned by Tlotlang Lepeli");
